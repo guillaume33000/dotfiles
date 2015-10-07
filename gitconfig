@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = guillaume.campo@hotmail.com
+	email = guillaume.campo@hotmail.fr
 	name = Guillaume Campo
